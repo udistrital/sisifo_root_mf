@@ -4,8 +4,8 @@ export const environment = {
   autenticacion: true,
   notificaciones: false,
   menuApps: false,
-  appname: "sga",
-  appMenu: "SGA",
+  appname: "sisifo",
+  appMenu: "SISIFO",
   TOKEN: {
     AUTORIZATION_URL:
       "https://autenticacion.portaloas.udistrital.edu.co/oauth2/authorize",
