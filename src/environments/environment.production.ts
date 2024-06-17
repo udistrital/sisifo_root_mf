@@ -23,5 +23,6 @@ export const environment = {
   parcels: {
     "@udistrital/root-config": "//localhost:4200/udistrital-root-config.js",
     "@udistrital/core-mf": "//localhost:4201/main.js",
+    "@udistrital/sisifo-configuracion-mf": "//localhost:4202/main.js"
   },
 };
