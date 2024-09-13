@@ -23,6 +23,7 @@ export const environment = {
   parcels: {
     "@udistrital/root-config": "https://sisifomicroclientes.portaloas.udistrital.edu.co/udistrital-root-config.js",
     "@udistrital/core-mf": "https://coreclientes.portaloas.udistrital.edu.co/main.js",
-    "@udistrital/sisifo-historico-roles-mf": "https://historicoroles.portaloas.udistrital.edu.co/main.js"
+    "@udistrital/sisifo-historico-roles-mf": "https://historicoroles.portaloas.udistrital.edu.co/main.js",
+    "@udistrital/plan-anual-auditoria-mf": "//localhost:4203/main.js"
   },
 };
