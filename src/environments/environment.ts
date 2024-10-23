@@ -21,7 +21,8 @@ export const environment = {
       //"@udistrital/core-mf": "//localhost:4201/main.js"
       "@udistrital/core-mf":"https://pruebascoreclientes.portaloas.udistrital.edu.co/main.js",
       "@udistrital/sisifo-configuracion-mf": "//localhost:4202/main.js",
-      "@udistrital/plan-anual-auditoria-mf": "//localhost:4203/main.js"
+      "@udistrital/plan-anual-auditoria-mf": "//localhost:4203/main.js",
+      "@udistrital/formularios-dinamicos-mf": "//localhost:4220/main.js"
 
 
 
