@@ -5,12 +5,13 @@ import {
   constructLayoutEngine,
 } from "single-spa-layout";
 import microfrontendLayout from "./microfrontend-layout.html";
+import "./assets/styles/index.css";
 
 let environment;
 
 declare var isProd: boolean | undefined;
 declare var isDev: boolean | undefined;
-declare var isLocal : boolean | undefined;
+declare var isLocal: boolean | undefined;
 
 if (isProd) {
   environment = require("./environments/environment.production");

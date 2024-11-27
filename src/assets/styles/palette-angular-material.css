@@ -1,0 +1,131 @@
+:root {
+  --primary: #731514 !important;
+
+  --color0: #f3ebeb;
+  --color1: #ebdddd;
+  --color2: #c39a9a;
+  --color3: #af7978;
+  --color4: #873635;
+  --color5: #731514;
+
+  --color100: #ffeae6;
+  --color200: #ffd7ce;
+  --color300: #efbeb4;
+  --color400: #dea69a;
+  --color500: #cd8e81;
+  --color600: #bc7669;
+  --color700: #aa5f52;
+  --color800: #98483c;
+  --color900: #863028;
+
+  --success-main: #9ebf77;
+  --success-base: #55993d;
+  --success-accent: #147314;
+
+  --warning-main: #fcd17e;
+  --warning-base: #fbbb3e;
+  --warning-accent: #faa500;
+
+  --danger-base: #e19b9b;
+  --danger-main: #c95858;
+  --danger-accent: #b22222;
+
+  --others-base: #869fc7;
+  --others-main: #42659d;
+  --others-accent: #143873;
+
+  /* Configuración de colores primarios */
+  --md-primary-50: #f2e8e7;
+  --md-primary-100: #dec4c2;
+  --md-primary-200: #c59b97;
+  --md-primary-300: #ac726c;
+  --md-primary-400: #95514c;
+  --md-primary-500: #731514; /* Color base */
+  --md-primary-600: #681212;
+  --md-primary-700: #5c1010;
+  --md-primary-800: #510d0d;
+  --md-primary-900: #3e0a0a;
+  --md-primary-A100: #ffabab;
+  --md-primary-A200: #ff7878;
+  --md-primary-A400: #ff4545;
+  --md-primary-A700: #f80000;
+
+  /* Configuración de contraste con #fff1f1 */
+  --md-primary-contrast-50: #731514; /* Texto oscuro para fondos claros */
+  --md-primary-contrast-100: #731514;
+  --md-primary-contrast-200: #731514;
+  --md-primary-contrast-300: #fff1f1; /* Texto claro para tonos más intensos */
+  --md-primary-contrast-400: #fff1f1;
+  --md-primary-contrast-500: #fff1f1; /* Contraste claro para color base */
+  --md-primary-contrast-600: #fff1f1;
+  --md-primary-contrast-700: #fff1f1;
+  --md-primary-contrast-800: #fff1f1;
+  --md-primary-contrast-900: #fff1f1; /* Contraste claro para tonos oscuros */
+  --md-primary-contrast-A100: #731514; /* Contraste oscuro para acentos */
+  --md-primary-contrast-A200: #731514;
+  --md-primary-contrast-A400: #731514;
+  --md-primary-contrast-A700: #731514;
+
+  /* Paleta de colores para md-accent */
+  --md-accent-50: #f5c1c0;
+  --md-accent-100: #e39b99;
+  --md-accent-200: #d67771;
+  --md-accent-300: #cc5251;
+  --md-accent-400: #c23636;
+  --md-accent-500: #a11413; /* Mismo color base que en `md-warning` */
+  --md-accent-600: #9a1112;
+  --md-accent-700: #8e0e0f;
+  --md-accent-800: #820d0e;
+  --md-accent-900: #750c0b; /* Más oscuro */
+  --md-accent-A100: #ff6f6d;
+  --md-accent-A200: #ff4947;
+  --md-accent-A400: #ff1f1d;
+  --md-accent-A700: #e60000;
+
+  /* Contraste de la paleta de `md-accent` */
+  --md-accent-contrast-50: #731514;
+  --md-accent-contrast-100: #731514;
+  --md-accent-contrast-200: #731514;
+  --md-accent-contrast-300: #731514;
+  --md-accent-contrast-400: #731514;
+  --md-accent-contrast-500: #ffffff; /* Contraste para el color base */
+  --md-accent-contrast-600: #ffffff;
+  --md-accent-contrast-700: #ffffff;
+  --md-accent-contrast-800: #ffffff;
+  --md-accent-contrast-900: #ffffff; /* Contraste claro para el color más oscuro */
+  --md-accent-contrast-A100: #731514;
+  --md-accent-contrast-A200: #731514;
+  --md-accent-contrast-A400: #731514;
+  --md-accent-contrast-A700: #731514;
+
+  --md-warning-50: #f7d0ce;
+  --md-warning-100: #f1a7a4;
+  --md-warning-200: #eb7e7b;
+  --md-warning-300: #e85652;
+  --md-warning-400: #e63e38;
+  --md-warning-500: #e71d1b; /* Color base */
+  --md-warning-600: #e61b1a;
+  --md-warning-700: #e41918;
+  --md-warning-800: #e21717;
+  --md-warning-900: #e11313; /* Más oscuro */
+  --md-warning-A100: #ff8784;
+  --md-warning-A200: #ff5e5b;
+  --md-warning-A400: #ff3431;
+  --md-warning-A700: #ff1110;
+
+  /* Contraste */
+  --md-warning-contrast-50: #731514;
+  --md-warning-contrast-100: #731514;
+  --md-warning-contrast-200: #731514;
+  --md-warning-contrast-300: #731514;
+  --md-warning-contrast-400: #731514;
+  --md-warning-contrast-500: #ffffff; /* Contraste para el color base */
+  --md-warning-contrast-600: #ffffff;
+  --md-warning-contrast-700: #ffffff;
+  --md-warning-contrast-800: #ffffff;
+  --md-warning-contrast-900: #ffffff; /* Contraste claro para el color más oscuro */
+  --md-warning-contrast-A100: #731514;
+  --md-warning-contrast-A200: #731514;
+  --md-warning-contrast-A400: #731514;
+  --md-warning-contrast-A700: #731514;
+}
