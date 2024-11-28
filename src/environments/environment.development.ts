@@ -20,7 +20,7 @@ export const environment = {
       "https://autenticacion.portaloas.udistrital.edu.co/apioas/autenticacion_mid/v1/token/userRol",
   },
   parcels: {
-    "@udistrital/root-config": "https://pruebasargomicroclientes.portaloas.udistrital.edu.co/udistrital-root-config.js",
+    "@udistrital/root-config": "https://pruebassisifomicroclientes.portaloas.udistrital.edu.co/udistrital-root-config.js",
     "@udistrital/core-mf": "https://pruebascoreclientes.portaloas.udistrital.edu.co/main.js"
   },
 };
