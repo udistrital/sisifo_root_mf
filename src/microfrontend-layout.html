@@ -1,29 +1,10 @@
-<single-spa-router>
+<single-spa-router base="/" disableWarnings>
   <!--
 
     This is the single-spa Layout Definition for your microfrontends.
     See https://single-spa.js.org/docs/layout-definition/ for more information.
 
   -->
-
-  <!-- Example layouts you might find helpful:
-
-  <nav>
-    <application name="@org/navbar"></application>
-  </nav>
-  <route path="settings">
-    <application name="@org/settings"></application>
-  </route>
-
-  -->
-
-  <!--<application name="@udistrital/core-mf"> </application>-->
-  <!--<main>
-    <route default>
-      <application name="@udistrital/core-mf"></application>
-    </route>
-  </main>-->
-
   <main id ="container">
   <br>
   <br>
@@ -36,12 +17,10 @@
   <route path="formularios-dinamicos">
     <application name="@udistrital/formularios-dinamicos-mf"></application>
   </route>
-  <route path="plan-auditoria">
+  <route path="gestion-auditoria">
     <application name="@udistrital/plan-anual-auditoria-mf"></application>
   </route>
 
-
-  
   </main>
   <div id="core">
     <application name="@udistrital/core-mf" props="environment"></application>
