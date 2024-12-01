@@ -4,11 +4,11 @@ export const environment = {
     autenticacion: true,
     notificaciones: false,
     menuApps: false,
-    appname: "sisifo",
-    appMenu: "SISIFO",
+    appname: "sisifo_mf",
+    appMenu: "SISIFO_MF",
     TOKEN: {
       AUTORIZATION_URL: "https://autenticacion.portaloas.udistrital.edu.co/oauth2/authorize",
-      CLIENTE_ID: "e36v1MPQk2jbz9KM4SmKhk8Cyw0a",
+      CLIENTE_ID: "2KK6pV4LPkc93Z2ZHwxXCcA2yD4a",
       RESPONSE_TYPE: "id_token token",
       SCOPE: "openid email role documento",
       REDIRECT_URL: "http://localhost:4200/",
@@ -18,19 +18,10 @@ export const environment = {
     },
     parcels: {
       "@udistrital/root-config": "//localhost:4200/udistrital-root-config.js",
-      //"@udistrital/core-mf": "//localhost:4201/main.js"
       "@udistrital/core-mf":"https://pruebascoreclientes.portaloas.udistrital.edu.co/main.js",
       "@udistrital/sisifo-configuracion-mf": "//localhost:4202/main.js",
       "@udistrital/plan-anual-auditoria-mf": "//localhost:4203/main.js",
       "@udistrital/formularios-dinamicos-mf": "//localhost:4220/main.js"
-
-
-
-
-
-
-    }
-  
-    
+    }    
   };
   
