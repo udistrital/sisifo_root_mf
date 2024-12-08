@@ -19,7 +19,7 @@ export const environment = {
     parcels: {
       "@udistrital/root-config": "//localhost:4200/udistrital-root-config.js",
       "@udistrital/core-mf":"https://pruebascoreclientes.portaloas.udistrital.edu.co/main.js",
-      "@udistrital/sisifo-configuracion-mf": "//localhost:4202/main.js",
+      "@udistrital/sisifo-usuario_rol_mf": "//localhost:4202/main.js",
       "@udistrital/plan-anual-auditoria-mf": "//localhost:4203/main.js",
       "@udistrital/formularios-dinamicos-mf": "//localhost:4220/main.js"
     }    
