@@ -25,5 +25,6 @@ export const environment = {
     "@udistrital/root-config": "https://pruebassisifomicroclientes.portaloas.udistrital.edu.co/udistrital-root-config.js",
     "@udistrital/core-mf": "https://pruebascoreclientes.portaloas.udistrital.edu.co/main.js",
     "@udistrital/sisifo-usuario-rol-mf": "https://pruebasgestionusuariorol.portaloas.udistrital.edu.co/main.js",
+    "@udistrital/plan-anual-auditoria-mf": "https://pruebasplananualauditoria.portaloas.udistrital.edu.co/main.js",
   },
 };

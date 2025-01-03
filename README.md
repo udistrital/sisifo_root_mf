@@ -69,17 +69,13 @@ export const environment = {
 
 Pruebas unitarias
 ```shell
-# Developing
+# Does not apply
 ```
 ## Estado CI
 
-```bash
-# Developing
-```
-## Modelo de Datos
-```bash
-# Developing
-```
+| Develop | Relese | Main |
+| -- | -- | -- |
+| [![Build Status](https://hubci.portaloas.udistrital.edu.co/api/badges/udistrital/auditoria_plan_mejoramiento_root_mf/status.svg?ref=refs/heads/develop)](https://hubci.portaloas.udistrital.edu.co/udistrital/auditoria_plan_mejoramiento_root_mf/) | [![Build Status](https://hubci.portaloas.udistrital.edu.co/api/badges/udistrital/auditoria_plan_mejoramiento_root_mf/status.svg?ref=refs/heads/release/0.0.1)](https://hubci.portaloas.udistrital.edu.co/udistrital/auditoria_plan_mejoramiento_root_mf/) | [![Build Status](https://hubci.portaloas.udistrital.edu.co/api/badges/udistrital/auditoria_plan_mejoramiento_root_mf/status.svg)](https://hubci.portaloas.udistrital.edu.co/udistrital/auditoria_plan_mejoramiento_root_mf/) |
 
 ## Licencia
 
