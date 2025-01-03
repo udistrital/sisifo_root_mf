@@ -8,7 +8,7 @@ export const environment = {
     appMenu: "SISIFO_MF",
     TOKEN: {
       AUTORIZATION_URL: "https://autenticacion.portaloas.udistrital.edu.co/oauth2/authorize",
-      CLIENTE_ID: "2KK6pV4LPkc93Z2ZHwxXCcA2yD4a",
+      CLIENTE_ID: "e36v1MPQk2jbz9KM4SmKhk8Cyw0a",
       RESPONSE_TYPE: "id_token token",
       SCOPE: "openid email role documento",
       REDIRECT_URL: "http://localhost:4200/",
