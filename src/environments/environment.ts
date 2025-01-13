@@ -21,7 +21,8 @@ export const environment = {
       "@udistrital/core-mf":"https://pruebascoreclientes.portaloas.udistrital.edu.co/main.js",
       "@udistrital/sisifo-usuario_rol_mf": "//localhost:4202/main.js",
       "@udistrital/plan-anual-auditoria-mf": "//localhost:4203/main.js",
-      "@udistrital/formularios-dinamicos-mf": "//localhost:4220/main.js"
+      "@udistrital/ejecucion-auditoria-mf": "//localhost:4204/main.js",
+      "@udistrital/formularios-dinamicos-mf": "//localhost:4220/main.js",
     }    
   };
   
