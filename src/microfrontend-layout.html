@@ -5,22 +5,19 @@
     See https://single-spa.js.org/docs/layout-definition/ for more information.
 
   -->
-  <main id ="container">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <route path="configuracion">
-    <application name="@udistrital/sisifo-usuario-rol-mf"></application>
-  </route>
-  <route path="formularios-dinamicos">
-    <application name="@udistrital/formularios-dinamicos-mf"></application>
-  </route>
-  <route path="gestion-auditoria">
-    <application name="@udistrital/plan-anual-auditoria-mf"></application>
-  </route>
-
+  <main id="container">
+    <route path="configuracion">
+      <application name="@udistrital/sisifo-usuario-rol-mf"></application>
+    </route>
+    <route path="formularios-dinamicos">
+      <application name="@udistrital/formularios-dinamicos-mf"></application>
+    </route>
+    <route path="gestion-auditoria">
+      <application name="@udistrital/plan-anual-auditoria-mf"></application>
+    </route>
+    <route path="ejecucion-auditoria">
+      <application name="@udistrital/ejecucion-auditoria-mf"></application>
+    </route>
   </main>
   <div id="core">
     <application name="@udistrital/core-mf" props="environment"></application>
