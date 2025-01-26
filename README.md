@@ -7,7 +7,7 @@ ellos y contiene el consumo de los assets, paleta de colores y favicon del siste
 ## Especificaciones Técnicas
 
 ### Tecnologías Implementadas y Versiones
-* [Angular](https://angular.io/) 16.2.12
+* [Angular](https://angular.io/) 18.2.13
 * [Node](https://nodejs.org/es/) 18.19.0
 
 
