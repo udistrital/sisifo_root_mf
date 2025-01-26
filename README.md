@@ -1,6 +1,6 @@
-# auditoria_plan_mejoramiento_root_mf 
+# Auditoría y Plan de Mejoramiento Root MF - Sísifo
 
-El Root contiene la lógica de Single-SPA del sistema de auditoria (Sisifo) y gestiona todos los microfrontends dentro de la página web, ayuda a gestionar la comunicación entre 
+El Root contiene la lógica de Single-SPA del sistema de auditoría (Sísifo) y gestiona todos los microfrontends dentro de la página web, ayuda a gestionar la comunicación entre 
 ellos y contiene el consumo de los assets, paleta de colores y favicon del sistema.
 
 
